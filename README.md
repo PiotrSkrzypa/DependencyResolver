@@ -6,7 +6,11 @@ A tool used to resolve git dependencies in packages installed with Unity's Packa
 ## How to Install
 
 Using Unity Package Manager install Newtonsoft Json. Install package by name:
+
+```
 "com.unity.nuget.newtonsoft-json"
+```
+
 After this download the library into your Unity project and access the utilities across your scripts or import it in Unity with 
 the Unity Package Manager using this URL:
 
