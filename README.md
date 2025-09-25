@@ -10,7 +10,9 @@ Using Unity Package Manager install Newtonsoft Json. Install package by name:
 After this download the library into your Unity project and access the utilities across your scripts or import it in Unity with 
 the Unity Package Manager using this URL:
 
-`https://github.com/PiotrSkrzypa/DependencyResolver.git`
+```
+"https://github.com/PiotrSkrzypa/DependencyResolver.git"
+```
 
 ### Add to Manifest
 
