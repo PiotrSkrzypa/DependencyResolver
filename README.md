@@ -8,14 +8,14 @@ A tool used to resolve git dependencies in packages installed with Unity's Packa
 Using Unity Package Manager install Newtonsoft Json. Install package by name:
 
 ```
-"com.unity.nuget.newtonsoft-json"
+com.unity.nuget.newtonsoft-json
 ```
 
-After this download the library into your Unity project and access the utilities across your scripts or import it in Unity with 
+After this download the library into your Unity project or import it in Unity with 
 the Unity Package Manager using this URL:
 
 ```
-"https://github.com/PiotrSkrzypa/DependencyResolver.git"
+https://github.com/PiotrSkrzypa/DependencyResolver.git
 ```
 
 ### Add to Manifest
