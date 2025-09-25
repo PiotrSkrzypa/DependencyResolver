@@ -1,0 +1,14 @@
+{
+  "name": "com.pskrzypa.dependencyresolver",
+  "version": "1.0.0",
+  "displayName": "Dependency Resolver",
+  "description": "A tool used to resolve git dependencies in packages installed with Unity's Package Manager",
+  "unity": "2022.1",
+  "dependencies": {
+ },
+  "author": {
+    "name": "Piotr Skrzypa",
+    "email": "skrzypapiotr144@gmail.com"
+  }
+}
+
